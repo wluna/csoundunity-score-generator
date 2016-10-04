@@ -1,9 +1,13 @@
 README
-—————
+——
 
 For basic setup instructions, 
 
 Watch Tutorial at:
+
+Watch Demo at:
+
+https://youtu.be/PG3ftW-juqg
 
 —
 
